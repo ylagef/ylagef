@@ -1,4 +1,9 @@
-# Yeray Lage here! 👋
+<h1 align="center">I'm Yeray and I'm happy that our paths have crossed! 🤘🏻</h1>
+
+<h2 align="center">I'm currently living in Ourense at 30ºC 🌡️</h2>
+
+
+
 
 <!--
 **ylagef/ylagef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

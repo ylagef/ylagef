@@ -27,4 +27,4 @@ jobs:
         git config user.email ylagef@gmail.com
         git add README.md
         git commit -m "Update weather data"
-        git push origin master
+        git push origin main

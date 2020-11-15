@@ -1,8 +1,9 @@
 <h1 align="center">I'm Yeray and I'm happy that our paths have crossed! 🤘🏻</h1>
 
-<h2 align="center">I'm currently living in Ourense at 30ºC 🌡️</h2>
+<h5 align="center">I'm currently living in Ourense at 30ºC 🌡️</h5>
 
-
+[![Linkedin Badge](https://img.shields.io/badge/-Yeray_Lage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeraylage/)](https://www.linkedin.com/in/yeraylage/)
+[![Gmail Badge](https://img.shields.io/badge/-ylagef@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ylagef@gmail.com)](mailto:ylagef@gmail.com)
 
 
 <!--

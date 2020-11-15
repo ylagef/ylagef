@@ -1,9 +1,9 @@
-<h2 align="center">I'm <strong>Yeray Lage</strong> and I'm happy that our paths have crossed! 🤘🏻</h2>
+<h2 align="center">I'm Yeray Lage and I'm happy that our paths have crossed! 🤘🏻</h2>
 
-<h5 align="center">I'm currently living in <strong>Ourense</strong> at <strong>30ºC</strong> 🌡️</h5>
+<h4 align="center">I'm currently living in Ourense at 30ºC 🌡️</h4>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yeraylage/" style="text-decoration: none">
+  <a href="https://www.linkedin.com/in/yeraylage/">
     <img src="https://img.shields.io/badge/-Yeray_Lage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeraylage/">
   </a>
   <a href="mailto:ylagef@gmail.com">
@@ -12,4 +12,3 @@
 </p>
 
 ---
-

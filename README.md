@@ -1,22 +1,15 @@
-<h1 align="center">I'm Yeray and I'm happy that our paths have crossed! 🤘🏻</h1>
+<h2 align="center">I'm <strong>Yeray Lage</strong> and I'm happy that our paths have crossed! 🤘🏻</h2>
 
-<h5 align="center">I'm currently living in Ourense at 30ºC 🌡️</h5>
+<h5 align="center">I'm currently living in <strong>Ourense</strong> at <strong>30ºC</strong> 🌡️</h5>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Yeray_Lage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeraylage/)](https://www.linkedin.com/in/yeraylage/)
-[![Gmail Badge](https://img.shields.io/badge/-ylagef@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ylagef@gmail.com)](mailto:ylagef@gmail.com)
+<p align="center">
+  <a href="https://www.linkedin.com/in/yeraylage/">
+    <img src="https://img.shields.io/badge/-Yeray_Lage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeraylage/">
+  </a>
+  <a href="mailto:ylagef@gmail.com">
+    <img src="https://img.shields.io/badge/-ylagef@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ylagef@gmail.com">
+  </a>
+</p>
 
+---
 
-<!--
-**ylagef/ylagef** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->

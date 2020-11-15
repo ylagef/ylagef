@@ -14,4 +14,4 @@
 ---
 
 - Special thanks to @midudev for his tutorial.
-- Weather data powered by Aemet.
+- Weather data powered by Aemet. (Updated each hour).

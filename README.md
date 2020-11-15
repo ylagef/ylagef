@@ -3,7 +3,7 @@
 <h5 align="center">I'm currently living in <strong>Ourense</strong> at <strong>30ºC</strong> 🌡️</h5>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/yeraylage/">
+  <a href="https://www.linkedin.com/in/yeraylage/" style="text-decoration: none">
     <img src="https://img.shields.io/badge/-Yeray_Lage-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/yeraylage/">
   </a>
   <a href="mailto:ylagef@gmail.com">

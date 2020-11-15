@@ -1,0 +1,25 @@
+{
+  "name": "ylagef-readme",
+  "version": "1.0.0",
+  "description": "Yeray Lage's readme",
+  "main": "index.js",
+  "scripts": {
+    "update-weather": "node src/index.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ylagef/ylagef.git"
+  },
+  "keywords": [],
+  "author": "Yeray Lage <ylagef@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ylagef/ylagef/issues"
+  },
+  "homepage": "https://github.com/ylagef/ylagef#readme",
+  "dependencies": {
+    "axios": "^0.21.0",
+    "node-fetch": "2.6.1"
+  }
+}

@@ -19,6 +19,9 @@ jobs:
         node-version: '14'
     - run: npm install
     - run: npm run update-weather
+      env:
+        AEMET_API_KEY: ${{ secrets.AEMET_API_KEY }}
+
     - run: |
         git config user.name Yeray Lage
         git config user.email ylagef@gmail.com

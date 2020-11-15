@@ -13,4 +13,5 @@
 
 ---
 
-<label>Special thanks to @midudev for his tutorial.</label>
+- Special thanks to @midudev for his tutorial.
+- Weather data powered by Aemet.

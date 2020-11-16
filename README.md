@@ -40,10 +40,10 @@
 <p align="center">
   <img alt="React" src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />  
   <img alt="Next.js" src="https://img.shields.io/badge/Next.js-000000?style=flat&logo=Next.js&logoColor=white" />  
-  <img alt="Github Actions" src="https://img.shields.io/badge/Github Actions-2088FF?style=flat&logo=Github Actions&logoColor=white" />  
+  <img alt="Github Actions" src="https://img.shields.io/badge/Github_Actions-2088FF?style=flat&logo=Github Actions&logoColor=white" />  
 </p>
 
 ---
 
 - Special thanks to @midudev for his tutorial.
-- Weather data powered by Aemet. (Updated each hour - Last update at 19:26h).
+- Weather data powered by Aemet. (Updated each hour - Last update at 19:41h).

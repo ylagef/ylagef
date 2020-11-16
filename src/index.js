@@ -43,6 +43,11 @@ function getHourlyData(url) {
     });
 }
 
+function getCurrentHourMinute() {
+  const now = new Date();
+  return `${now.getHours()}:${now.getMinutes()}`;
+}
+
 (async () => {
   const [template, temperature] = await Promise.all([
     fs.readFile("./src/README.md.tpl", { encoding: "utf-8" }),
@@ -53,7 +58,7 @@ function getHourlyData(url) {
   if (temperature) {
     const newMarkdown = template
       .replace("%{{temperature}}%", temperature)
-      .replace("%{{last_update}}%", new Date().toISOString());
+      .replace("%{{last_update}}%", getCurrentHourMinute);
 
     await fs.writeFile("README.md", newMarkdown);
   }

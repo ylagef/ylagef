@@ -51,7 +51,9 @@ function getHourlyData(url) {
 
   // replace all placeholders with info
   if (temperature) {
-    const newMarkdown = template.replace("%{{temperature}}%", temperature);
+    const newMarkdown = template
+      .replace("%{{temperature}}%", temperature)
+      .replace("%{{last_update}}%", new Date().toISOString());
 
     await fs.writeFile("README.md", newMarkdown);
   }

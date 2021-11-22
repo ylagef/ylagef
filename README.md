@@ -1,6 +1,6 @@
 <h2 align="center">I'm <strong>Yeray Lage</strong> and I'm happy that our paths have crossed! 🤘🏻</h2>
 
-<h4 align="center">I'm currently living in Ourense at <strong>6ºC</strong> 🌡️</h4>
+<h4 align="center">I'm currently living in Ourense at <strong>7ºC</strong> 🌡️</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yeraylage/">
@@ -45,4 +45,4 @@
 ---
 
 - Special thanks to @midudev for his tutorial.
-- Weather data powered by Aemet. (Updated each hour - Last update at 4:18h).
+- Weather data powered by Aemet. (Updated each hour - Last update at 5:12h).

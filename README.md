@@ -45,4 +45,4 @@
 ---
 
 - Special thanks to @midudev for his tutorial.
-- Weather data powered by Aemet. (Updated each hour - Last update at 5:19h).
+- Weather data powered by Aemet. (Updated each hour - Last update at 6:20h).

@@ -36,4 +36,4 @@
 ---
 
 - Special thanks to @midudev for his tutorial.
-- Weather data powered by Aemet. (Updated each hour - Last update at 12:5h).
+- Weather data powered by Aemet. (Updated each hour - Last update at 13:8h).

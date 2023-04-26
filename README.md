@@ -1,6 +1,6 @@
 <h2 align="center">I'm <strong>Yeray Lage</strong> and I'm happy that our paths have crossed! 🤘🏻</h2>
 
-<h4 align="center">I'm currently living in Ourense at <strong>13ºC</strong> 🌡️</h4>
+<h4 align="center">I'm currently living in Ourense</h4>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/yeraylage/">

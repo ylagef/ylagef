@@ -2,7 +2,7 @@ name: Update weather
 
 on:
   push:
-    branches: [ main ]
+    branches: [ unkown ]
 
 jobs:
   build:
